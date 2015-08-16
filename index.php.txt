@@ -1,0 +1,6 @@
+<?php 
+
+	echo "Hye Git";
+	
+	echo "Bye Git";
+?>
